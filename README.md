@@ -4,7 +4,16 @@ Python script that scrapes tweets and news articles about different industry sec
 
 To run: 
    
-    - Define your <a href="https://www.tweepy.org/">tweepy</a> environment variables
+    - Define your Tweepy environment variables:
+        TWITTER_KEY
+
+        TWITTER_SECRET
+
+        TWITTER_BEARER_TOKEN
+
+        TWITTER_BEARER_ACCESS_TOKEN
+        
+        TWITTER_BEARER_TOKEN_SECRET
     
     - Run python3 main.py
 
