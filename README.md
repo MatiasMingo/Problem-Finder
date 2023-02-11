@@ -11,6 +11,7 @@ To run:
 
 Industries:
 
+```json
 
 {
    "Accommodation and Food Services": [
@@ -2175,3 +2176,4 @@ Industries:
        "Zoos & Aquariums"
     ]
 }
+```
