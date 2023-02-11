@@ -6,4 +6,4 @@ To run:
    
     - Define your <a href="https://www.tweepy.org/">tweepy</a> environment variables
     
-    - Run <code>python3 main.py</code>
+    - Run python3 main.py
