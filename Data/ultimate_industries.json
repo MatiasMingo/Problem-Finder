@@ -1,0 +1,183 @@
+{
+    "Administration, Business Support and Waste Management Services": [
+        "Credit Bureaus & Rating Agencies",
+        "Packaging & Labeling Services",
+        "Recycling Facilities",
+        "Remediation & Environmental Cleanup Services",
+        "Waste Collection Services",
+        "Waste Treatment & Disposal Services"
+     ],
+    "Agriculture, Forestry, Fishing and Hunting": [
+        "Agribusiness"
+     ],
+    "Construction": [
+        "Sustainable Building Material Manufacturing"
+     ],
+    "Finance and Insurance": [
+        "Commodity Dealing and Brokerage",
+        "Custody, Asset & Securities Services",
+        "Loan Brokers"
+     ],
+    "Healthcare and Social Assistance": [
+        "Biotechnology"
+     ],
+    "Information": [
+        "Data Processing & Hosting Services",
+        "Database & Directory Publishing",
+        "Database, Storage & Backup Software Publishing",
+        "Operating Systems & Productivity Software Publishing",
+        "Radar & Satellite Operations",
+        "Satellite Telecommunications Providers",
+        "Security Software Publishing",
+        "Software Publishing",
+        "Telecommunications Resellers",
+        "VoIP"
+     ],
+    "Manufacturing": [
+        "Battery Manufacturing",
+        "Copper Rolling, Drawing & Extruding",
+        "Fertilizer Manufacturing",
+        "Semiconductor & Circuit Manufacturing",
+        "Semiconductor Machinery Manufacturing",
+        "Wind Turbine Manufacturing",
+        "Wineries"
+     ],
+    "Mining": [
+        "Copper, Nickel, Lead & Zinc Mining"
+     ],
+    "Professional, Scientific and Technical Services": [
+        "Building Inspectors",
+        "Credit Counselors, Surveyors & Appraisers",
+        "Environmental Consulting",
+        "Media Buying Agencies",
+        "Media Representative Firms",
+        "Payroll & Bookkeeping Services",
+        "Surveying & Mapping Services",
+        "Tax Preparation Services"
+     ],
+    "Real Estate and Rental and Leasing": [
+        "Commercial Leasing",
+        "Commercial Real Estate",
+        "Intellectual Property Licensing",
+        "Land Leasing",
+        "Property Management",
+        "Real Estate and Rental and Leasing",
+        "Real Estate Appraisal",
+        "Real Estate Asset Management & Consulting",
+        "Real Estate Sales & Brokerage"
+     ],
+    "Retail Trade": [
+        "E-Commerce & Online Auctions"
+     ],
+    "Transportation and Warehousing": [
+        "Airport Operations",
+        "Freight Forwarding Brokerages & Agencies",
+        "Freight Packing & Logistics Services",
+        "Tugboat & Shipping Navigational Services"
+     ],
+    "Utilities": [
+        "Coal & Natural Gas Power",
+        "Electric Power Transmission",
+        "Hydroelectric Power",
+        "Natural Gas Distribution",
+        "Nuclear Power",
+        "Sewage Treatment Facilities",
+        "Solar Power",
+        "Steam & Air-Conditioning Supply",
+        "Utilities",
+        "Water Supply & Irrigation Systems",
+        "Wind Power"
+     ],
+    "Wholesale Trade": [
+        "SPECIALIZED INDUSTRY REPORTS",
+        "United States Specialized Reports",
+        "Report available On Demand",
+        "Spotlight Report"
+     ],
+    "Online Retail":[
+        "Online Art Sales",
+        "Online Hardware & Tool Sales",
+        "Online Industrial Machinery & Equipment Sales",
+        "Online Industrial Supplies Sales"
+     ],
+    "Advisory and Financial Services":[
+        "Background Check Services",
+        "Business Information Resellers",
+        "Business Process Outsourcing Services",
+        "Company Research Services",
+        "Construction Machinery Rentals",
+        "Cryptocurrency Exchanges",
+        "Customs Brokers",
+        "Cyber Liability Insurance",
+        "Data Center Colocation Services",
+        "Distribution and Logistics Consulting Services",
+        "Document Management Services",
+        "e-Discovery Consulting Services",
+        "e-Discovery Software Publishing",
+        "e-Trading Software Developers",
+        "Energy & Utility Consulting Services",
+        "Estate Liquidation Services",
+        "Expert Networks",
+        "Financial Data Service Providers",
+        "Fleet Car Leasing",
+        "Franchise Resale Brokers & Consultants",
+        "Group Purchasing Organizations",
+        "Hedge Funds",
+        "High Frequency Trading",
+        "HMO Providers",
+        "Installment Lenders",
+        "Insurance Claims Processing Software",
+        "Intermodal Container Leasing",
+        "International Trade Financing",
+        "Invoice Factoring",
+        "Medical Billing Services",
+        "Medical Claims Processing Services",
+        "Oil, Gas & Mining Consultants",
+        "Online Insurance Brokers",
+        "Online Legal Services",
+        "Online Mortgage Brokers",
+        "Online Stock Brokerages",
+        "Product Returns Management Services",
+        "Public Opinion Research",
+        "Stock Price & Rating Research",
+        "Supply Chain Management Services",
+        "Third-Party Data Entry Services",
+        "Third-Party Logistics"
+     ],
+    "Technology":[
+        "ATM Manufacturing",
+        "Battery Recycling",
+        "Biomass Power",
+        "Biometrics Scan Software",
+        "Bioplastics Manufacturing",
+        "CAD Software Developers",
+        "Cloud Security Software",
+        "Dark Fiber Network Operators",
+        "Electric Vehicle Charging Stations",
+        "Electricity & Signal Testing Instrument Manufacturing",
+        "Electronic Access Control System Manufacturing",
+        "Electronic Article Surveillance Product Manufacturing",
+        "Electronic Design Automation Software Developers",
+        "Endpoint Security Software",
+        "Enterprise Resource Planning Software Developers",
+        "ETL & ELT Data Management Software",
+        "Field Service Management Software",
+        "Fraud Detection Software Developers",
+        "Geothermal Electricity Plant Operation",
+        "Identity Management Software",
+        "Identity Theft Protection Services",
+        "IT Security Consulting",
+        "Lithium Battery Manufacturing",
+        "Microprocessor Chip Manufacturing",
+        "Point of Sale Software Developers",
+        "Precision Agriculture Systems & Services",
+        "Solar Farm Developers",
+        "Storage Area Network Software Development",
+        "Waste-to-Energy Plant Operation"
+     ],
+    "Industrial Machinery, Gas and Chemicals":[
+     ],
+    "Specialist Engineering, Infrastructure and Contractors":[
+        "Industrial Engineering Services"
+     ]
+ }
