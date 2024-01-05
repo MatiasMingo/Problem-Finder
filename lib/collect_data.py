@@ -1,5 +1,4 @@
 import json
-from .APIs import twitter_interaction
 from time import sleep
 from .Scrapping import google_news
 
@@ -16,5 +15,10 @@ def find_industry_processes(industries_dict):
         for industry in industries:
             print(f'{industry} \n')
             url_news, url_search = google_news.get_industry_news(industry)
-
-def write_
+            url_dicts[industry] = [url_news, url_search]
+    write_industry_processes_json(url_dicts)
+    
+def write_industry_processes_json(urls_dict):
+    with open("Data/Results/research_links.json", 'w', encoding="utf-8") as industries_file:
+        industries_dict = json.dump(urls_dict, industries_file)
+    return industries_dict

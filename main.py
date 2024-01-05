@@ -29,6 +29,6 @@ def find_industry_processes(industries_dict):
 """
 
 if __name__ == '__main__':
-    industries_dict = indentify_industries("Data/extremely_interesting_industries.json")
+    industries_dict = indentify_industries("Data/Industries/extremely_interesting_industries.json")
     find_industry_processes(industries_dict)
     
