@@ -14,21 +14,29 @@ https://google.com/search?q=Credit%20Bureaus%20Rating%20Agencies+problems&hl=en-
 ### <u>Packaging & Labeling Services</u>
         "https://news.google.com/search?q=Packaging%20Labeling%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Packaging%20Labeling%20Services+problems&hl=en-US&gl=US&ceid=US:en"
-#### **Activities**:
-* Compile credit reports. 
-* Analyze the information they gather
-#### **Product or service**:
-* Information for lenders and others
-* Credit reports and credit scores
+#### **Problems**:
+* Incorrect labeling 
+* Labeling expenses
+* Label defects
+* Plastic-based labeling --> cant be recycled
+* Supply chain challenges
 
 ### <u>Recycling Facilities</u>
         "https://news.google.com/search?q=Recycling%20Facilities+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Recycling%20Facilities+problems&hl=en-US&gl=US&ceid=US:en"
+#### **Problems**:
+* Contamination with non-recyclable materials
+* Plastic recycling contamination with other materials
+* Plastic bags
 
 ### Remediation & Environmental Cleanup Services
         "https://news.google.com/search?q=Remediation%20Environmental%20Cleanup%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Remediation%20Environmental%20Cleanup%20Services+problems&hl=en-US&gl=US&ceid=US:en"
-
+#### **Problems**:
+* Complex contaminant remediation
+* Estimating the cost of a project
+* Proper disposal of contaminants
+* Regulatory compliance and permitting
 ### Waste Collection Services
         "https://news.google.com/search?q=Waste%20Collection%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Waste%20Collection%20Services+problems&hl=en-US&gl=US&ceid=US:en"
@@ -36,14 +44,55 @@ https://google.com/search?q=Credit%20Bureaus%20Rating%20Agencies+problems&hl=en-
 ### Waste Treatment & Disposal Services
         "https://news.google.com/search?q=Waste%20Treatment%20Disposal%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Waste%20Treatment%20Disposal%20Services+problems&hl=en-US&gl=US&ceid=US:en"
+#### **Problems**:
+* Operational costs
+    * Waste collection, 
+    * Transportation
+    * Treatment expenses are rising due to fuel prices
+    * Labor costs
+    * Maintenance expenses.
+* Poor waste management
+    * Non-existent collection systems
+    * Ineffective disposal
+    * Poor servicing of collection vehicles can cause:
+
+
+### **Chile**:
+* Ley 20920 establece que todo residuo potencialmente valorizable debe ser destinado a tal fin --> Residuos potencialmente valorizables
+* Modalidades de valorización: Reciclaje, coprocesamiento y la reducción de recursoshidrobiológicos
+*en Chile se generan 7,5 millones de toneladas de residuos domiciliarios al año. De ese total, un 58% corresponde a materia orgánica, pero solo 1% de estos desechos se valoriza
 
 ### Agribusiness
         "https://news.google.com/search?q=Agribusiness+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Agribusiness+problems&hl=en-US&gl=US&ceid=US:en"
 
+#### **Problems**:
+* Climate change
+* Environmental degradation
+* Poor supply chain management
+* Absence of efficient farmer engagement practices
+* Inaccurate demand forecasting
+* Lack of transparency across the value chain
+* Water-wise agriculture
+
+
+### **Chile**:
+* Problemas de salinización
+* Sequía --> la peor en 100 años
+* Extracción ilegal de agua
+* Población mundial se pronostica que crecerá a 9.7 billones el 2050 --> Demanda de comida crecerá de un 59% a un 98%.
+
+
 ### Sustainable Building Material Manufacturing
         "https://news.google.com/search?q=Sustainable%20Building%20Material%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Sustainable%20Building%20Material%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en"
+
+### **Problems** : 
+* Lack of availability
+
+### **Chile** :
+* Asimismo, en el país, el 35% de los residuos sólidos proviene de la construcción y la demolición, y según cifras del Minvu se proyecta que a 2023 estos alcancen las 7.4 millones de toneladas al año, suficiente para llenar más de 15 veces el Estadio Nacional. 
+* https://construye2025.cl/ 
 
 ### Commodity Dealing and Brokerage
         "https://news.google.com/search?q=Commodity%20Dealing%20and%20Brokerage+problems&hl=en-US&gl=US&ceid=US:en",
