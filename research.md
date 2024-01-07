@@ -110,222 +110,250 @@ https://google.com/search?q=Credit%20Bureaus%20Rating%20Agencies+problems&hl=en-
         "https://news.google.com/search?q=Biotechnology+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Biotechnology+problems&hl=en-US&gl=US&ceid=US:en"
 
-### Data Processing & Hosting Services
-        "https://news.google.com/search?q=Data%20Processing%20Hosting%20Services+problems&hl=en-US&gl=US&ceid=US:en",
-        "https://google.com/search?q=Data%20Processing%20Hosting%20Services+problems&hl=en-US&gl=US&ceid=US:en"
+### **Activities** : 
+* Blue --> Marine
+* White --> Industrial
+* Red --> Medical
+* Grey --> Environmental
+* Green --> Agriculture
+* Purple --> Legal issues
+* Black --> War
+* Brown --> Deserts and dry places
+* Yellow --> Food
+* Gold --> Bioinformatics & computer science
 
-### Database & Directory Publishing
-        "https://news.google.com/search?q=Database%20Directory%20Publishing+problems&hl=en-US&gl=US&ceid=US:en",
-        "https://google.com/search?q=Database%20Directory%20Publishing+problems&hl=en-US&gl=US&ceid=US:en"
 
-### Database, Storage & Backup Software Publishing
-        "https://news.google.com/search?q=Database,%20Storage%20Backup%20Software%20Publishing+problems&hl=en-US&gl=US&ceid=US:en",
-        "https://google.com/search?q=Database,%20Storage%20Backup%20Software%20Publishing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Operating Systems & Productivity Software Publishing": [
+### **Problems** : 
+* Lack of availability
+
+
+### Operating Systems & Productivity Software Publishing
         "https://news.google.com/search?q=Operating%20Systems%20Productivity%20Software%20Publishing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Operating%20Systems%20Productivity%20Software%20Publishing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Radar & Satellite Operations": [
+
+### Radar & Satellite Operations
         "https://news.google.com/search?q=Radar%20Satellite%20Operations+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Radar%20Satellite%20Operations+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Satellite Telecommunications Providers": [
+### **Problems** : 
+* Interference
+* Sensor damage
+* Power supply
+* Cooling systems
+
+### **Applications**
+* Financial transactions:
+* Finance:
+    * Site observations
+    * Supply chain tracking
+    * Commodity monitoring
+    * Energy intelligence
+    * Economic indicators
+* Insurance oversight
+* Real-estate management 
+* Logistics 
+* Verifications connectivity
+* Product sourcing
+
+
+### Satellite Telecommunications Providers
         "https://news.google.com/search?q=Satellite%20Telecommunications%20Providers+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Satellite%20Telecommunications%20Providers+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Security Software Publishing": [
+
+### Security Software Publishing
         "https://news.google.com/search?q=Security%20Software%20Publishing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Security%20Software%20Publishing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Software Publishing": [
+
+### Software Publishing
         "https://news.google.com/search?q=Software%20Publishing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Software%20Publishing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Telecommunications Resellers": [
+
+### Telecommunications Resellers
         "https://news.google.com/search?q=Telecommunications%20Resellers+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Telecommunications%20Resellers+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "VoIP": [
+
+### VoIP
         "https://news.google.com/search?q=VoIP+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=VoIP+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Battery Manufacturing": [
+### **Activities**
+Voice over Internet Protocol (VoIP) is a way to make phone calls using the internet instead of traditional analog phone lines. VoIP is also known as virtual telephony, online phone system, cloud-based phone system, IP telephony, and virtual calling tool. 
+
+
+### Battery Manufacturing
         "https://news.google.com/search?q=Battery%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Battery%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Copper Rolling, Drawing & Extruding": [
+
+### Copper Rolling, Drawing & Extruding
         "https://news.google.com/search?q=Copper%20Rolling,%20Drawing%20Extruding+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Copper%20Rolling,%20Drawing%20Extruding+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Fertilizer Manufacturing": [
+
+### Fertilizer Manufacturing
         "https://news.google.com/search?q=Fertilizer%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Fertilizer%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Semiconductor & Circuit Manufacturing": [
+
+### Semiconductor & Circuit Manufacturing
         "https://news.google.com/search?q=Semiconductor%20Circuit%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Semiconductor%20Circuit%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Semiconductor Machinery Manufacturing": [
+
+### Semiconductor Machinery Manufacturing
         "https://news.google.com/search?q=Semiconductor%20Machinery%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Semiconductor%20Machinery%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Wind Turbine Manufacturing": [
+
+### Wind Turbine Manufacturing
         "https://news.google.com/search?q=Wind%20Turbine%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Wind%20Turbine%20Manufacturing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Wineries": [
+
+### Wineries
         "https://news.google.com/search?q=Wineries+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Wineries+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Copper, Nickel, Lead & Zinc Mining": [
+
+### Copper, Nickel, Lead & Zinc Mining
         "https://news.google.com/search?q=Copper,%20Nickel,%20Lead%20Zinc%20Mining+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Copper,%20Nickel,%20Lead%20Zinc%20Mining+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Building Inspectors": [
+
+### Building Inspectors
         "https://news.google.com/search?q=Building%20Inspectors+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Building%20Inspectors+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Credit Counselors, Surveyors & Appraisers": [
+
+### Credit Counselors, Surveyors & Appraisers
         "https://news.google.com/search?q=Credit%20Counselors,%20Surveyors%20Appraisers+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Credit%20Counselors,%20Surveyors%20Appraisers+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Environmental Consulting": [
+
+### Environmental Consulting
         "https://news.google.com/search?q=Environmental%20Consulting+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Environmental%20Consulting+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Media Buying Agencies": [
+
+### Media Buying Agencies
         "https://news.google.com/search?q=Media%20Buying%20Agencies+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Media%20Buying%20Agencies+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Media Representative Firms": [
+
+### Media Representative Firms
         "https://news.google.com/search?q=Media%20Representative%20Firms+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Media%20Representative%20Firms+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Payroll & Bookkeeping Services": [
+
+### Payroll & Bookkeeping Services
         "https://news.google.com/search?q=Payroll%20Bookkeeping%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Payroll%20Bookkeeping%20Services+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Surveying & Mapping Services": [
+
+### Surveying & Mapping Services
         "https://news.google.com/search?q=Surveying%20Mapping%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Surveying%20Mapping%20Services+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Tax Preparation Services": [
+    
+### Tax Preparation Services
         "https://news.google.com/search?q=Tax%20Preparation%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Tax%20Preparation%20Services+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Commercial Leasing": [
+    
+### Commercial Leasing
         "https://news.google.com/search?q=Commercial%20Leasing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Commercial%20Leasing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Commercial Real Estate": [
+    
+### Commercial Real Estate
         "https://news.google.com/search?q=Commercial%20Real%20Estate+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Commercial%20Real%20Estate+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Intellectual Property Licensing": [
+
+### Intellectual Property Licensing
         "https://news.google.com/search?q=Intellectual%20Property%20Licensing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Intellectual%20Property%20Licensing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Land Leasing": [
+
+### Land Leasing
         "https://news.google.com/search?q=Land%20Leasing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Land%20Leasing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Property Management": [
+
+### Property Management
         "https://news.google.com/search?q=Property%20Management+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Property%20Management+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Real Estate and Rental and Leasing": [
+
+### Real Estate and Rental and Leasing
         "https://news.google.com/search?q=Real%20Estate%20and%20Rental%20and%20Leasing+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Real%20Estate%20and%20Rental%20and%20Leasing+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Real Estate Appraisal": [
+    
+### Real Estate Appraisal
         "https://news.google.com/search?q=Real%20Estate%20Appraisal+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Real%20Estate%20Appraisal+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Real Estate Asset Management & Consulting": [
+
+### Real Estate Asset Management & Consulting
         "https://news.google.com/search?q=Real%20Estate%20Asset%20Management%20Consulting+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Real%20Estate%20Asset%20Management%20Consulting+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Real Estate Sales & Brokerage": [
+    
+### Real Estate Sales & Brokerage
         "https://news.google.com/search?q=Real%20Estate%20Sales%20Brokerage+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Real%20Estate%20Sales%20Brokerage+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "E-Commerce & Online Auctions": [
+
+### E-Commerce & Online Auctions
         "https://news.google.com/search?q=E-Commerce%20Online%20Auctions+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=E-Commerce%20Online%20Auctions+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Airport Operations": [
+    
+### Airport Operations
         "https://news.google.com/search?q=Airport%20Operations+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Airport%20Operations+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Freight Forwarding Brokerages & Agencies": [
+    
+### Freight Forwarding Brokerages & Agencies
         "https://news.google.com/search?q=Freight%20Forwarding%20Brokerages%20Agencies+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Freight%20Forwarding%20Brokerages%20Agencies+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Freight Packing & Logistics Services": [
+    
+### Freight Packing & Logistics Services
         "https://news.google.com/search?q=Freight%20Packing%20Logistics%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Freight%20Packing%20Logistics%20Services+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Tugboat & Shipping Navigational Services": [
+    
+### Tugboat & Shipping Navigational Services
         "https://news.google.com/search?q=Tugboat%20Shipping%20Navigational%20Services+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Tugboat%20Shipping%20Navigational%20Services+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Coal & Natural Gas Power": [
+    
+### Coal & Natural Gas Power
         "https://news.google.com/search?q=Coal%20Natural%20Gas%20Power+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Coal%20Natural%20Gas%20Power+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Electric Power Transmission": [
+    
+### Electric Power Transmission
         "https://news.google.com/search?q=Electric%20Power%20Transmission+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Electric%20Power%20Transmission+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Hydroelectric Power": [
+    
+### Hydroelectric Power
         "https://news.google.com/search?q=Hydroelectric%20Power+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Hydroelectric%20Power+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Natural Gas Distribution": [
+    
+### Natural Gas Distribution
         "https://news.google.com/search?q=Natural%20Gas%20Distribution+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Natural%20Gas%20Distribution+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Nuclear Power": [
+    
+### Nuclear Power
         "https://news.google.com/search?q=Nuclear%20Power+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Nuclear%20Power+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Sewage Treatment Facilities": [
+    
+### Sewage Treatment Facilities
         "https://news.google.com/search?q=Sewage%20Treatment%20Facilities+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Sewage%20Treatment%20Facilities+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Solar Power": [
+    
+### Solar Power
         "https://news.google.com/search?q=Solar%20Power+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Solar%20Power+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Steam & Air-Conditioning Supply": [
+    
+### Steam & Air-Conditioning Supply
         "https://news.google.com/search?q=Steam%20Air-Conditioning%20Supply+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Steam%20Air-Conditioning%20Supply+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Utilities": [
+    
+### Utilities
         "https://news.google.com/search?q=Utilities+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Utilities+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Water Supply & Irrigation Systems": [
+    
+### Water Supply & Irrigation Systems
         "https://news.google.com/search?q=Water%20Supply%20Irrigation%20Systems+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Water%20Supply%20Irrigation%20Systems+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Wind Power": [
+    
+### Wind Power
         "https://news.google.com/search?q=Wind%20Power+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Wind%20Power+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "SPECIALIZED INDUSTRY REPORTS": [
+    
+### SPECIALIZED INDUSTRY REPORTS
         "https://news.google.com/search?q=SPECIALIZED%20INDUSTRY%20REPORTS+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=SPECIALIZED%20INDUSTRY%20REPORTS+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "United States Specialized Reports": [
+    
+### United States Specialized Reports
         "https://news.google.com/search?q=United%20States%20Specialized%20Reports+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=United%20States%20Specialized%20Reports+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
-    "Report available On Demand": [
+    
+### Report available On Demand
         "https://news.google.com/search?q=Report%20available%20On%20Demand+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Report%20available%20On%20Demand+problems&hl=en-US&gl=US&ceid=US:en"
-    ],
+    
     "Spotlight Report": [
         "https://news.google.com/search?q=Spotlight%20Report+problems&hl=en-US&gl=US&ceid=US:en",
         "https://google.com/search?q=Spotlight%20Report+problems&hl=en-US&gl=US&ceid=US:en"
